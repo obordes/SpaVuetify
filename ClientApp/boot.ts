@@ -1,4 +1,5 @@
-import './css/site.css';
+//import './css/site.css';
+import '../node_modules/vuetify/dist/vuetify.min.css'; 
 import 'bootstrap';
 import Vue from 'vue';
 import Vuetify from 'vuetify';
